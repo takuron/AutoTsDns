@@ -1,0 +1,2 @@
+# AutoTsDns
+基于EasyService的TelescopeDNS安装脚本
