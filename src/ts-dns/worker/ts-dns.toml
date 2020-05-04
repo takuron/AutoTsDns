@@ -1,0 +1,22 @@
+# Telescope DNS Configure File
+#
+
+listen = ":53"
+gfwlist = "gfwlist.txt"
+cnip = "cnip.txt"
+
+[hosts]
+# 防止doh回环解析，预置服务器ip
+"cloudflare-dns.com" = "1.1.1.1"
+"dns.alidns.com" = "223.5.5.5"
+"dns.google" = "8.8.8.8"
+"rubyfish.cn" = "118.126.68.223"
+"uw-dns.rubyfish.cn" = "115.159.131.230"
+
+[groups]
+  [groups.clean]
+  concurrent = true
+  doh = ["https://dns.alidns.com/dns-query","https://rubyfish.cn/dns-query","https://uw-dns.rubyfish.cn/dns-query"]
+
+  [groups.dirty]
+  doh = ["https://cloudflare-dns.com/dns-query","https://dns.google/dns-query"]

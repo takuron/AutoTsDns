@@ -1,0 +1,4 @@
+如果你是小白，请直接复制整个文件夹到c盘后点击setup.exe即可。
+如果不需要了请点击unstall.exe。
+
+大神可以自行参考https://github.com/wolf-joe/ts-dns的文档修改配置文件，文件位于ts-dns/worker中，重载配置请用管理员权限执行restart.bat

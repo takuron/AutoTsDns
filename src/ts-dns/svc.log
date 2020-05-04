@@ -1,0 +1,35 @@
+[2020-05-04 14:01:44] Installed Service "Auto-ts-dns"
+[2020-05-04 14:01:44] 
+[2020-05-04 14:01:45] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 14:01:45] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 14:04:31] [INFO] Notified Worker to exit
+[2020-05-04 14:04:32] [WARN] Worker refused to exit
+[2020-05-04 14:04:33] [WARN] Worker has been killed
+[2020-05-04 14:04:33] [INFO] Stopped Service "Auto-ts-dns"
+[2020-05-04 14:04:46] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 14:04:46] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 14:13:43] [INFO] Notified Worker to exit
+[2020-05-04 14:13:44] [WARN] Worker refused to exit
+[2020-05-04 14:13:45] [WARN] Worker has been killed
+[2020-05-04 14:13:45] [INFO] Stopped Service "Auto-ts-dns"
+[2020-05-04 14:55:47] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 14:55:47] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 15:07:19] [INFO] Notified Worker to exit
+[2020-05-04 15:07:20] [WARN] Worker refused to exit
+[2020-05-04 15:07:21] [WARN] Worker has been killed
+[2020-05-04 15:07:21] [INFO] Stopped Service "Auto-ts-dns"
+[2020-05-04 15:07:31] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 15:07:31] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 15:11:35] [INFO] Notified Worker to exit
+[2020-05-04 15:11:36] [WARN] Worker refused to exit
+[2020-05-04 15:11:37] [WARN] Worker has been killed
+[2020-05-04 15:11:37] [INFO] Stopped Service "Auto-ts-dns"
+[2020-05-04 15:11:38] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 15:11:38] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 15:12:40] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 15:12:40] [INFO] Started Service "Auto-ts-dns"
+[2020-05-04 15:14:15] [WARN] Worker exited with out be notified (code 1)
+[2020-05-04 15:14:15] [INFO] Recreate Worker after 5 seconds
+[2020-05-04 15:14:20] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 15:16:05] [INFO] Created Worker `ts-dns` in `C:\Users\Takuron-Laptop\auto-ts-dns\bin\ts-dns\worker`
+[2020-05-04 15:16:05] [INFO] Started Service "Auto-ts-dns"
